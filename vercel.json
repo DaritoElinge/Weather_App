@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/weather/[city].js": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}
